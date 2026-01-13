@@ -43,7 +43,8 @@ jobs:
           deno task test:coverage
         timeout-minutes: 5
       - run: |
-          deno task coverage --lcov > coverage.lcov
+          echo coverage report is disabled
+          # deno task coverage --lcov > coverage.lcov
 
   bench:
     runs-on: ubuntu-latest

@@ -1,7 +1,7 @@
 # 🪐 @warashi/denovo-std
 
 [![JSR](https://jsr.io/badges/@warashi/denovo-std)](https://jsr.io/@warashi/denovo-std)
-[![test](https://github.com/Warashi/deno-denovo-std/workflows/test/badge.svg)](https://github.com/Warashi/deno-denovo-std/actions?query=workflow%3Atest)
+[![Test](https://github.com/Warashi/deno-denovo-std/actions/workflows/test.yml/badge.svg)](https://github.com/Warashi/deno-denovo-std/actions/workflows/test.yml)
 
 This is a standard module of [denovo.zsh], an ecosystem for creating Zsh plugin
 in [deno].

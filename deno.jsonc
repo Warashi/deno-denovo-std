@@ -21,6 +21,9 @@
     "test:coverage": "deno task test --coverage=.coverage",
     "coverage": "deno coverage .coverage"
   },
+  "fmt": {
+    "exclude": ["CHANGELOG.md"]
+  },
   "imports": {
     "@warashi/denovo-core": "jsr:@warashi/denovo-core@0.1.0"
   }
